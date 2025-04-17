@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import authRoutes from './routes/authRoutes.js';
 import catagoryRoutes from './routes/catagoryRoutes.js'
 import adRoutes from './routes/adRoutes.js';
+import { swaggerDocs } from './utils/swagger.js';
 
 dotenv.config();
 
@@ -24,3 +25,5 @@ const port = process.env.PORT || 3000;
 app.listen(port, ()=>{
     console.log(`Server is working and listening on http://localhost:${port}`)
 })
+
+swaggerDocs(app)

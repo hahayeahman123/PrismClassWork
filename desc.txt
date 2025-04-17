@@ -1,3 +1,10 @@
 Skelbimu api servisas
 
 netycia pavadinau db ant sql workbench as "AtApi" :D
+
+2.
+antra diena dirbant ant sito, dabaigsim darba
+
+how to run:
+npm i
+npm run start
