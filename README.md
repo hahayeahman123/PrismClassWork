@@ -1,0 +1,5 @@
+Admin prisijungimo duomenys
+El.pastas: admin@gmail.com
+Slaptazodis: 62zmx30s
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsImVtYWlsIjoiYWRtaW5AZ21haWwuY29tIiwiaWF0IjoxNzQ3OTIxNDk4LCJleHAiOjE3NDgwMDc4OTh9.S0Zc8xIhdSJ-6j3MyAlKk65N7U-O4VoLlhJUVEZGAWM
